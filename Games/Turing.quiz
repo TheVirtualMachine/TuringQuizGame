@@ -1,0 +1,37 @@
+15
+7
+Integer division is performed with:
+div
+/
+divide
+int divide
+An integer variable is declared with:
+var i : int
+int i
+int i : var
+var int i
+A variable that can hold decimal places is declared with:
+var i : real
+var i : decimal
+decimal i
+var i : double
+A variable with the value true or false is called a:
+boolean
+bool
+trufls
+tf
+A variable that holds characters is called a:
+string
+char
+characters
+word
+Basic output is performed with the command:
+put
+print
+write
+output
+Basic input is performed with the command:
+get
+read
+prompt
+in
